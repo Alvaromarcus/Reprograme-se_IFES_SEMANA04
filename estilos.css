@@ -311,7 +311,7 @@ div.rodape {
         display: flex;
         /* 8. Espaço de 3vw entre itens flexbox */
         gap: 3vw;
-        /*margin-bottom: 3vw;*/
+        margin-bottom: 3vw;
     }
 
     .areaesquerda .menu img {
@@ -346,7 +346,6 @@ div.rodape {
 
     #subtituloPrincipal {
         /* 15. Mostrar elemento */
-        /*visibility: visible;*/
         display: flex;
     }
 
@@ -374,27 +373,10 @@ div.rodape {
         font-size: 2.5vw;
     }
 
-    /*.projetos .conteudo-secao {
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-
-
-    }*/
-
-
-    /* .projetos .conteudo-secao .card {
-        width: cal(50%-0.75rem);
-        justify-content: center;
-        align-content: center;
-
-
-    }*/
-
-
 
     .card {
         /* 20. Largura de 50% do elemento pai, menos 0.75rem (use função calc() ) */
-        width: calc(50%-0.75rem);
+        width: calc(50% - 0.75rem);
 
     }
 
