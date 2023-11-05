@@ -17,7 +17,7 @@ Este projeto é um portfólio pessoal desenvolvido por Álvaro S. Marcus, aprese
 
 ## Licença
 
-Você pode reproduzir, modificar e distribuir o código, desde que inclua o aviso de licença. Consulte o arquivo [LICENSE.txt] para obter mais detalhes.
+Você pode reproduzir, modificar e distribuir o código, desde que inclua o aviso de licença. Consulte o arquivo [LICENSE](LICENSE.txt) para obter mais detalhes.
 
 ---
 
@@ -41,4 +41,4 @@ This project is a personal portfolio developed by Álvaro S. Marcus, showcasing 
 
 ## License
 
-You can reproduce, modify, and distribute the code, as long as you include the license notice. Refer to the [LICENSE.txt] file for more details.
+You can reproduce, modify, and distribute the code, as long as you include the license notice. Refer to the [LICENSE](LICENSE.txt) file for more details.
